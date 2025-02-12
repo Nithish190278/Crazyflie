@@ -1,0 +1,1 @@
+CRAZYFLIE_URI = "radio://0/80/2M/E7E7E7E7E7"
